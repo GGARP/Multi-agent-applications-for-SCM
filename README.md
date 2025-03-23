@@ -1,1 +1,2 @@
-# Multi-agent-applications-for-SCM
+# Extending Multi-Agent Systems for Supply Chain Management
+In this project, we extend the original experiments of the InvAgent study and introduce new frameworks designed to  enhance multi-agent inventory management applications. Leveraging LLM-based zero-shot learning along with self-messaging capabilities, our approach explores adaptive decision-making and compares it with the traditional frameworks. 
