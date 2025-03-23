@@ -12,5 +12,5 @@ cd InvAgent
 
 ## Recreating the experiments 
 - To run the experiments, use any of the Ipynb files, note that an OPENAI_API_KEY or DEEP_SEEK_API_KEY are required as an environment variable.
-- Each folder contains env (for environment) and config (for environment configuration) files which are necessary for  working with notebook ipynb files
+- Each folder contains env (for environment) and config (for environment configuration) files which are necessary for  working with notebooks  (ipynb files)
 - Additionally, you can find the archive of all trained networks in the MAPPO folder
