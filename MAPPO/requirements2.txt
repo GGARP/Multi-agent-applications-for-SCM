@@ -1,0 +1,8 @@
+ray[rllib,tune]==2.10.0
+torch==2.6.0+cu118
+torchaudio==2.6.0+cu118
+torchvision==0.21.0+cu118
+numpy==1.26.4
+gymnasium==0.28.1
+dm-tree==0.1.9
+FLAML==2.3.4
