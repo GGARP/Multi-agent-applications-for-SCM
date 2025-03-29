@@ -1,0 +1,9 @@
+gym==0.26.2
+gymnasium==0.28.1
+numpy==1.26.4
+ray==2.24.0
+scipy==1.13.1
+torch==2.2.2
+requests==2.31.0
+tqdm==4.66.2
+git+https://github.com/openai/swarm.git@0c82d7d868bb8e2d380dfd2a319b5c3a1f4c0cb9#egg=swarm
